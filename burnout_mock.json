@@ -1,0 +1,30 @@
+
+{"burnout": [
+  {
+    "cod_burnout": 200,
+    "cod_func": 123,
+    "pergunta1":4,
+    "pergunta2":8,
+    "pergunta3":10,
+    "pergunta4":1,
+    "pergunta5":5,
+    "pergunta6":7,
+    "pergunta7":5,
+    "pergunta8":3,
+    "pergunta9":6,
+    "pergunta10":2,
+    "pergunta11":1,
+    "pergunta12":2,
+    "pergunta13":6,
+    "pergunta14":8,
+    "pergunta15":9,
+    "pergunta16":10,
+    "pergunta17":10,
+    "pergunta18":1,
+    "pergunta19":6,
+    "pergunta20":5,
+    "resultado":109,
+    "FLG":1
+  }
+]
+}

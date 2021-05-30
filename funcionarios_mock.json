@@ -1,0 +1,43 @@
+{
+"funcionarios": [{
+  "nome": "José alves dos santos",
+  "empresa": "RodoAlves SA",
+  "cod_empresa": 400,
+  "cod_funcionario": 12,
+  "email": "jose12@gmail.com",
+  "senha": 12344,
+  "cpf": "03780787040",
+  "celular": "(58) 92995-5032"
+},
+{
+  "nome": "Maria Lima",
+  "empresa": "Elimit SA",
+  "cod_empresa": 233,
+  "cod_funcionario": 30,
+  "email": "maria_lima@gmail.com",
+  "senha": 4532,
+  "cpf": "496.392.643-18",
+  "celular": "(19) 38717-3515"
+},
+{
+  "nome": "Mariana Ferreira",
+  "empresa": "JBC SA",
+  "cod_empresa": 450,
+  "cod_funcionario": 16,
+  "email": "jose12@gmail.com",
+  "senha": 12344,
+  "cpf": "280.511.544-95",
+  "celular": "(58) 26634-3047"
+},
+{
+  "nome": "Mario Rosendo",
+  "empresa": "SLS Ltd",
+  "cod_empresa": 123,
+  "cod_funcionario": 29,
+  "email": "jose12@gmail.com",
+  "senha": 12344,
+  "cpf": "03780787040",
+  "celular": "(45) 54497-9630"
+}
+]
+}

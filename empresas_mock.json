@@ -1,0 +1,36 @@
+{
+"empresas": [
+{
+"cod_empresa": 400,
+"nome_empresa": "RodoAlves SA",
+"funcionarios": [1],
+"cnpj": "91574682000100",
+"area":"transportes e logistica",
+"razao_social":"RodoAlves Transportes SA"
+},
+{
+  "cod_empresa": 233,
+  "nome_empresa": "Elimit SA",
+  "funcionarios": [5],
+  "cnpj": "86544835739905",
+  "area":"segurança",
+  "razao_social":"Elimit SA"
+  },
+  {
+    "cod_empresa": 450,
+    "nome_empresa": "JBC Sa",
+    "funcionarios": [3],
+    "cnpj": "80023425693762",
+    "area":"alimentos",
+    "razao_social":"JBC SA"
+    },
+    {
+      "cod_empresa": 123,
+      "nome_empresa": "SLS Ltda",
+      "funcionarios": [2],
+      "cnpj": "20033467124626",
+      "area":"ERP",
+      "razao_social":"SLS Ltda"
+      }
+]
+}
