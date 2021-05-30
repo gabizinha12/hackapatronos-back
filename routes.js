@@ -29,7 +29,7 @@ var data = {
   "burnout": "sim"
 };
 
-const result = carbone.render('./node_modules/carbone/examples/simple.odt', data, function(err, result){
+ carbone.render('./node_modules/carbone/examples/simple.odt', data, function(err, result){
   if (err) {
     return console.log(err);
   }
